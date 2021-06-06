@@ -181,3 +181,15 @@ button:disabled {
     font-weight: 300;
     padding: 12px 24px 0 24px;
 }
+@media only screen and (max-width: 600px){
+    #send-location{
+        display: none;
+    }
+    #message-form{
+        padding: 8px;
+    }
+    #message-form button{
+        font-size: 8px;
+        padding: 8px;
+    }
+}

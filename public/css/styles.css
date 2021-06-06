@@ -192,4 +192,8 @@ button:disabled {
         font-size: 8px;
         padding: 8px;
     }
+    .chat__sidebar{
+        width: 200px;
+    }
+
 }
